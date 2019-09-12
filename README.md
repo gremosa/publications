@@ -10,3 +10,4 @@ A non-exhaustive list of interesting content.
 - [Marginal Revolution](https://marginalrevolution.com/)
 - [Nautilus](http://nautil.us/)
 - [Dinesh Ayyappan's Blog](https://www.dineshayyappan.com/)
+- [Tofugu](https://www.tofugu.com/)
