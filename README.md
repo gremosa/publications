@@ -12,3 +12,4 @@ A non-exhaustive list of interesting content.
 - [Dinesh Ayyappan's Blog](https://www.dineshayyappan.com/)
 - [Tofugu](https://www.tofugu.com/)
 - [Bombayologist](https://www.instagram.com/bombayologist/?hl=en)
+- [Swapnil Agarwal's Website](https://swapnil.net/)
